@@ -11,6 +11,7 @@ list_of_files = [
     "src/prompt.py",
     ".env",
     "setup.py",
+    "store_index.py",
     "app.py",
     "research/trials.ipynb",
    " test.py"
